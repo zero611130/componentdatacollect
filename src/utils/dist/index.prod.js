@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.getUrlSearch=void 0;var getUrlSearch=function(e){for(var r={},t=e.split("?")[1].split("&"),l=0,s=t.length;l<s;l++){var a=t[l].split("=");r[a[0]]=a[1]}return r};exports.getUrlSearch=getUrlSearch;

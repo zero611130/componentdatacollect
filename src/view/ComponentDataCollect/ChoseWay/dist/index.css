@@ -1,0 +1,11 @@
+.component-data-collect {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.component-data-collect .form-area {
+  position: relative;
+  left: -100px;
+  width: 400px;
+}
